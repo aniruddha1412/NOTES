@@ -1,0 +1,3 @@
+1. Write your folder and file names in lowercase and separate words with hyphen rather than underscore.
+2.  Often DOM manipulation styling is done by modifying the `Element.style.x` properties, which results in inline CSS being injected into HTML. A better strategy is to add/change classes on elements to avoid inline CSS.
+3. The `title` attribute is common to almost any element in HTML. It is used to provide extra information about the element. It is displayed as a tooltip when the user hovers over the element.

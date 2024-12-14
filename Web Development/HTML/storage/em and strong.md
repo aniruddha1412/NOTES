@@ -1,0 +1,3 @@
+- To give emphasis to some text, use `<em>` tag.
+- To give strong importance to some text use `<strong>` tag.
+- By default, `<em>` italicizes text and `<strong>` makes text bold. But this is not what these tags are used for. They are used for semantic meaning and also the screen readers pronounce them in a different way.
